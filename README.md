@@ -1,7 +1,3 @@
-Here's the updated README file incorporating the libraries and the Kaggle dataset link:
-
----
-
 # Data Analysis Project
 
 ## Overview
